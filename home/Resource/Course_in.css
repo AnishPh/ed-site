@@ -1,0 +1,28 @@
+.hdiv
+{
+position:absolute;
+top:0px;
+background-color:yellowgreen;
+width:100%;
+left:-1px;
+height:60px;
+text-align:left;
+color:white;
+font-family:Impact;
+font-size:45px;
+padding-left:50px;
+}
+
+.rdiv
+{
+	position:relative;
+	text-align:right;
+	font-family:Impact;
+	font-size:40px;
+	top:-50px;
+	margin-right:5%;
+}
+a
+{
+	text-decoration:none;
+}

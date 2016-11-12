@@ -1,0 +1,15 @@
+ dt
+ {
+  font-size:30px;
+  font-family:Times New Roman;
+  }
+dd
+  {
+  font-size:20px;
+  font-family:footlight mt light;
+  margin-left:10px;
+  margin-right:10px;
+  padding-left:10px;
+  padding-right:10px;
+  text-align:justify;
+  }
