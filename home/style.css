@@ -1,0 +1,100 @@
+.main1
+	{
+	font-family:Georgia;
+	color: FFFF00;
+	font-size: 40px;
+	font-weight: 40px;
+	background-color: 990000;
+	width: 500px;
+	border:5px black dashed;
+	opacity:0.8;
+	text-height:20px;
+        font-variant:small-caps; 
+	}
+	
+	
+.main2
+    {
+	font-family: Georgia;	
+	font-size:60px;
+  	color: cyan;
+    	font-weight:50px;
+	text-shadow: 2px 2px blue;
+	font-variant:small-caps;	
+}
+
+
+	
+	html
+	{
+	 
+  background: url(lg4.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+	}
+	
+	.hdiv
+{
+position:absolute;
+top:0px;
+background-color:yellowgreen;
+width:100%;
+left:-1px;
+height:60px;
+text-align:left;
+color:white;
+font-family:Impact;
+font-size:45px;
+padding-left:50px;
+}
+
+.rdiv
+{
+	position:relative;
+	text-align:right;
+	font-family:Impact;
+	font-size:40px;
+	top:-50px;
+	margin-right:5%;
+}
+
+	
+	h1
+	{
+		text-align:right;
+	}
+    
+	h2
+	{
+		text-align:right;
+	}
+
+input[type=text]:focus,[type=password]:focus
+{
+    border: 2px solid blue;
+    border-radius: 4px;
+    background-color:black;
+    color: white;
+    font-size:20px;
+    font-family:Monotype;
+}
+
+input[type=button], input[type=submit], input[type=reset] {
+    background-color: yellowgreen;
+    border: none;
+    color: blue;
+    padding: 16px 40px;
+    text-decoration: ;
+    margin: 4px 2px;
+    cursor: pointer;
+    font-size:30px;
+    font-family:Comic Sans MS;
+    font-variant:small-caps;
+    
+}
+a
+{
+ text-decoration:none;
+}
