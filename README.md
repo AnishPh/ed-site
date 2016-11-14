@@ -18,6 +18,14 @@ Wamp 3.0.4 was used throughout this project
 U can download it from their official site
 Php any version above 7
 
+
+Sliders
+The sliders are implemented using ImageSlidernaker (http://imageslidermaker.com/)
+
+Animation
+Css Animation is used 
+
+
 FILESYSTEM
 The main "home" directory is a base directory for this project.
 
