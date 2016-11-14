@@ -43,4 +43,5 @@ Steps to download/implement in your workstation
 9)Navigate to the registration page and then register as a user.
 10)Then login using email id and password. 
 11)Then enjoy the content.
+Also please refer to the Screenshots present at home/screenshots/screenshots.docx.
 If you have any problems u can always pm me at delta501405@gmail.com
