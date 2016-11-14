@@ -38,7 +38,7 @@ Steps to download/implement in your workstation
 4)Paste this ed-site directory in www directory.
 5)Start your wamp server.
 6)Start your browser(Preferred:Chrome) and go to your localhost site.
-7)Go to localhost/Ed_site/home/db.php and you will get output as "Connected successfullyDatabase created successfully Table info created successfully".(db.php is used for creating all required databases and tables).
+7)Go to localhost/ed_site/home/db.php and you will get output as "Connected successfullyDatabase created successfully Table info created successfully".(db.php is used for creating all required databases and tables).
 8)Change the url to localhost/Elec_net/home/index.php.
 9)Navigate to the registration page and then register as a user.
 10)Then login using email id and password. 
